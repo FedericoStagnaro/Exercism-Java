@@ -1,5 +1,13 @@
+/.idea
+*/.exercism
+*/.gradle
+*/.idea
+*/.build
+*/build
+
 # Compiled class file
 *.class
+
 
 # Log file
 *.log
